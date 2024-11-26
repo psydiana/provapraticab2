@@ -15,4 +15,7 @@ let count = 0;
     count ++;
   }
 
+  console.log('Cor aleatória final: ${selectedColor}');
+}
+
 displaySingleRandomColor(colors);
