@@ -1,5 +1,3 @@
-@param {Array} colors
-
 function displaySingleRandomColor(colors) {
   const totalColors = colors.length;
   if (totalColors < 10) {
